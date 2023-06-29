@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "E:\\PH-LEVEl-2\\university-management-software\\university-management-auth-service\\logs\\winston\\errors\\.ac482faee7e19f9787e371dacc93079460832440-audit.json",
+    "files": [
+        {
+            "date": 1688023432728,
+            "name": "E:\\PH-LEVEl-2\\university-management-software\\university-management-auth-service\\logs\\winston\\errors\\error-2023-06-29-error.log",
+            "hash": "c1edbfef126050ef7432ed556962b4b111d094b6e1a41f8f36074c9d00bd6f40"
+        }
+    ],
+    "hashType": "sha256"
+}
