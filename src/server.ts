@@ -5,8 +5,8 @@ import { logger, errorLogger } from './shared/logger'
 import { Server } from 'http'
 
 // ---> uncaught exception error handle
-process.on('uncaughtException', err => {
-  console.log('uncaught exception is detected....', err)
+process.on('uncaughtException', error => {
+  errorLogger.error(error)
   process.exit(1)
 })
 
@@ -24,7 +24,6 @@ async function main() {
   }
 
   process.on('unhandledRejection', error => {
-    console.log('rejected...........')
     if (server) {
       server.close(() => {
         errorLogger.error(error)
