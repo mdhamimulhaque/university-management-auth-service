@@ -1,15 +1,70 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "E:\\PH-LEVEl-2\\university-management-software\\university-management-auth-service\\logs\\winston\\successes\\.40e3ba8e1c5637b80a544e691f59c73ca67efb1d-audit.json",
+  "files": [
+    {
+      "date": 1688024751220,
+      "name": "E:\\PH-LEVEl-2\\university-management-software\\university-management-auth-service\\logs\\winston\\successes\\EMS-2023-06-29-13-success.log",
+      "hash": "1b250027b08b4f5d2e606845741e601eebec5e860000ca13971a803bd423df32"
     },
-    "auditLog": "E:\\PH-LEVEl-2\\university-management-software\\university-management-auth-service\\logs\\winston\\successes\\.40e3ba8e1c5637b80a544e691f59c73ca67efb1d-audit.json",
-    "files": [
-        {
-            "date": 1688024751220,
-            "name": "E:\\PH-LEVEl-2\\university-management-software\\university-management-auth-service\\logs\\winston\\successes\\EMS-2023-06-29-13-success.log",
-            "hash": "1b250027b08b4f5d2e606845741e601eebec5e860000ca13971a803bd423df32"
-        }
-    ],
-    "hashType": "sha256"
+    {
+      "date": 1688027708793,
+      "name": "E:\\PH-LEVEl-2\\university-management-software\\university-management-auth-service\\logs\\winston\\successes\\EMS-2023-06-29-14-success.log",
+      "hash": "3801b7862ea94ace51efcc4d6eb9b9c49a16762ae1bd52792531c4b2621d4a27"
+    },
+    {
+      "date": 1688089193711,
+      "name": "E:\\PH-LEVEl-2\\university-management-software\\university-management-auth-service\\logs\\winston\\successes\\EMS-2023-06-30-07-success.log",
+      "hash": "b7adb403573d83b2f0f782d585f4d9cc4da4c15fc2ec8a88dca72ea727dbcb65"
+    },
+    {
+      "date": 1688090574200,
+      "name": "E:\\PH-LEVEl-2\\university-management-software\\university-management-auth-service\\logs\\winston\\successes\\EMS-2023-06-30-08-success.log",
+      "hash": "f97d05edccc26d3f0ca18f8bb86b0bcfeb97849ed841d1be22bcec1d765e0fa6"
+    },
+    {
+      "date": 1688094125901,
+      "name": "E:\\PH-LEVEl-2\\university-management-software\\university-management-auth-service\\logs\\winston\\successes\\EMS-2023-06-30-09-success.log",
+      "hash": "96ea14ad95bfcf9afbffa9450c6305ea43e3f62456ca66ddfdc50b174bbd3eb0"
+    },
+    {
+      "date": 1688103973147,
+      "name": "E:\\PH-LEVEl-2\\university-management-software\\university-management-auth-service\\logs\\winston\\successes\\EMS-2023-06-30-11-success.log",
+      "hash": "beb5c7544ef5286e47da1c88515d6a19d3bffdf071671de4a8cce1d1d9a8460c"
+    },
+    {
+      "date": 1688105223542,
+      "name": "E:\\PH-LEVEl-2\\university-management-software\\university-management-auth-service\\logs\\winston\\successes\\EMS-2023-06-30-12-success.log",
+      "hash": "e9fd31351389df7d0b14d3902fd8fa09874f17fa667952ee31e9697d9cf7d831"
+    },
+    {
+      "date": 1688122061947,
+      "name": "E:\\PH-LEVEl-2\\university-management-software\\university-management-auth-service\\logs\\winston\\successes\\EMS-2023-06-30-16-success.log",
+      "hash": "40d1c511b00655fb2e2e2c5ef9df64182d142ab0f92b7c7e9d8f48570264bf2d"
+    },
+    {
+      "date": 1688123010438,
+      "name": "E:\\PH-LEVEl-2\\university-management-software\\university-management-auth-service\\logs\\winston\\successes\\EMS-2023-06-30-17-success.log",
+      "hash": "62a6d0d2bfb47d07388cc25eaa235e507d37b93f7ecaf6c288aa0ec266c3be19"
+    },
+    {
+      "date": 1688126445845,
+      "name": "E:\\PH-LEVEl-2\\university-management-software\\university-management-auth-service\\logs\\winston\\successes\\EMS-2023-06-30-18-success.log",
+      "hash": "6e1268b0530fb279fc2be65a6cea050e26e881670ff65acd9ef31c82d016f69e"
+    },
+    {
+      "date": 1688136986249,
+      "name": "E:\\PH-LEVEl-2\\university-management-software\\university-management-auth-service\\logs\\winston\\successes\\EMS-2023-06-30-20-success.log",
+      "hash": "72a869368bf973fe52fda6446740ff2284b18c5c0a55807358784bd4310f46ce"
+    },
+    {
+      "date": 1688137364869,
+      "name": "E:\\PH-LEVEl-2\\university-management-software\\university-management-auth-service\\logs\\winston\\successes\\EMS-2023-06-30-21-success.log",
+      "hash": "0cf880d1f6709caaca6380f3e6554667d729e1d5eb6f90703f76df066a2c154a"
+    }
+  ],
+  "hashType": "sha256"
 }
