@@ -15,10 +15,9 @@ app.use(express.urlencoded({ extended: true }))
 app.use('/api/v1/users/', UserRoutes)
 
 // ---> testing
-// app.get('/', (req: Request, res: Response, next: NextFunction) => {
-//   // res.send('server is running...')
-//   // throw new ApiError(400, 'Opps! error is here') //--->error
-//   next('Opps! Error is here')
+// app.get('/', async (req: Request, res: Response, next: NextFunction) => {
+//   Promise.reject(new Error('Unhandled Promise Rejection'))
+//   // next('Opps! Error is here')
 // })
 
 // ---> global error handler
