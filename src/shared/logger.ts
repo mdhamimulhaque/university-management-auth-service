@@ -19,7 +19,6 @@ const logger = createLogger({
     new transports.Console(),
     new DailyRotateFile({
       filename: path.join(
-        // eslint-disable-next-line no-undef
         process.cwd(),
         'logs',
         'winston',
@@ -41,7 +40,6 @@ const errorLogger = createLogger({
     new transports.Console(),
     new DailyRotateFile({
       filename: path.join(
-        // eslint-disable-next-line no-undef
         process.cwd(),
         'logs',
         'winston',
