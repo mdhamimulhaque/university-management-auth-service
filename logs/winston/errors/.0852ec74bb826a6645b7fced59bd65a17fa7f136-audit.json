@@ -84,6 +84,26 @@
             "date": 1688494350798,
             "name": "E:\\PH-LEVEl-2\\university-management-software\\university-management-auth-service\\logs\\winston\\errors\\error-2023-07-05-00-error.log",
             "hash": "10365def96a85a9fb4a64814f394dd6c35c8b062269d8bc9fbf29440cd15c9a3"
+        },
+        {
+            "date": 1688530848668,
+            "name": "E:\\PH-LEVEl-2\\university-management-software\\university-management-auth-service\\logs\\winston\\errors\\error-2023-07-05-10-error.log",
+            "hash": "7d4ec9eb2d7eb20d5786dd733f753154207a30c20222aa2149fc979631b9b881"
+        },
+        {
+            "date": 1688547962456,
+            "name": "E:\\PH-LEVEl-2\\university-management-software\\university-management-auth-service\\logs\\winston\\errors\\error-2023-07-05-15-error.log",
+            "hash": "11d65d7bdf82c8bbe1f40cb8575699a68ae9b9baa59453fadd27ea4bb61def1a"
+        },
+        {
+            "date": 1688551672248,
+            "name": "E:\\PH-LEVEl-2\\university-management-software\\university-management-auth-service\\logs\\winston\\errors\\error-2023-07-05-16-error.log",
+            "hash": "bd25e85b9b327dac0b068d3921af11f22b07894a504f0bf8c441a47d0ce64554"
+        },
+        {
+            "date": 1688573079112,
+            "name": "E:\\PH-LEVEl-2\\university-management-software\\university-management-auth-service\\logs\\winston\\errors\\error-2023-07-05-22-error.log",
+            "hash": "93fd0e77f308ebd6352107c2a09492bda9b0405cdf20dda6fcb357d197241e0f"
         }
     ],
     "hashType": "sha256"
