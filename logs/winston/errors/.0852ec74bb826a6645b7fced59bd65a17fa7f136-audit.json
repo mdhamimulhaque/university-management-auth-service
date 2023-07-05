@@ -84,6 +84,11 @@
             "date": 1688494350798,
             "name": "E:\\PH-LEVEl-2\\university-management-software\\university-management-auth-service\\logs\\winston\\errors\\error-2023-07-05-00-error.log",
             "hash": "10365def96a85a9fb4a64814f394dd6c35c8b062269d8bc9fbf29440cd15c9a3"
+        },
+        {
+            "date": 1688530848668,
+            "name": "E:\\PH-LEVEl-2\\university-management-software\\university-management-auth-service\\logs\\winston\\errors\\error-2023-07-05-10-error.log",
+            "hash": "7d4ec9eb2d7eb20d5786dd733f753154207a30c20222aa2149fc979631b9b881"
         }
     ],
     "hashType": "sha256"
