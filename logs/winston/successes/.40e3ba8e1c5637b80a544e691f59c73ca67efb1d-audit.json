@@ -104,6 +104,11 @@
             "date": 1688573079102,
             "name": "E:\\PH-LEVEl-2\\university-management-software\\university-management-auth-service\\logs\\winston\\successes\\EMS-2023-07-05-22-success.log",
             "hash": "7cbf7f449c9820b2f941ce2962687fbe646aa10bdf9cd01217fbdcc5b2e0e602"
+        },
+        {
+            "date": 1688793513676,
+            "name": "E:\\PH-LEVEl-2\\university-management-software\\university-management-auth-service\\logs\\winston\\successes\\EMS-2023-07-08-11-success.log",
+            "hash": "67f02eb53fa9781af9288740742129ff9eff93b44c9d877ce0184958072382d4"
         }
     ],
     "hashType": "sha256"
