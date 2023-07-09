@@ -1,0 +1,4 @@
+Sun Jul 09 2023 16:27:35 [UMS] error: Cast to number failed for value "i" (type string) at path "year" for model "academicSemester"
+Sun Jul 09 2023 16:28:36 [UMS] error: Cast to number failed for value "i" (type string) at path "year" for model "academicSemester"
+Sun Jul 09 2023 16:40:56 [UMS] error: $regex has to be a string
+Sun Jul 09 2023 16:42:7 [UMS] error: $regex has to be a string
